@@ -1,7 +1,5 @@
 # Deciphering Decisions - Merging Behavioural Finance and Game Theory
 
-Welcome to this course!
-
 This course aims to equip you with a deep understanding of the psychological and strategic elements that drive financial markets. By exploring the intersection of behavioral finance and game theory, you will gain insights into how investor behavior and strategic interactions influence market dynamics and trading decisions.
 
 This repository offers a comprehensive collection of resources on finance fundamentals, technical analysis, algorithmic trading, research paper analysis, game theory, and behavioral finance. Our goal is to provide a robust and integrated platform for learning, experimenting, and applying diverse financial concepts. We hope you'll find valuable insights and tools to deepen your understanding and enhance knowledge!
@@ -45,9 +43,3 @@ All course materials, including lecture slides, reading lists, and assignments, 
   
 6) For understanding the basics of Game Theory
     - 'Game theory for applied economists' by Robert Gibbons, is a superb book to get hold of the fundamentals and know the math behind them.
-
-## Contributions
-This project is jointly offered by
-  - Naman Gupta (namangupta22@iitk.ac.in)
-  - Rohan Ram (rohannr22@iitk.ac.in)
-  - Aarsh Walavalkar (aarshaw22@iitk.ac.in)
